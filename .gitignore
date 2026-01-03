@@ -1,0 +1,27 @@
+# ESP-IDF build artifacts
+build/
+*.bin
+*.elf
+*.map
+
+# sdkconfig backup files
+sdkconfig.old
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Claude Code session data (optional - remove if you want to commit it)
+.claude/

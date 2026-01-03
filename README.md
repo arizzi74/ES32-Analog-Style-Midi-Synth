@@ -19,6 +19,10 @@ A professional-grade duophonic MIDI synthesizer for ESP32 with PolyBLEP oscillat
 - 📊 **Oscilloscope Output:** Real-time waveform on GPIO25 (8-bit DAC, 44.1 kHz)
 - ⚡ **Ultra-Low Latency:** 0.73ms audio latency, <1ms MIDI latency
 
+![ESP32 MIDI Synthesizer Hardware](IMG_9647.jpg)
+
+**Note:** MIDI controller mappings are preconfigured for the **Arturia Minilab3** controller. See [MIDI_CONTROLLERS.md](MIDI_CONTROLLERS.md) for the complete CC mapping reference.
+
 ---
 
 ## Hardware Requirements
